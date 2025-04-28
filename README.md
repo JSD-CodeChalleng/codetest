@@ -51,5 +51,10 @@ To run the test:
 cd dts-developer-technical-test/dts-challenge/dts-challenge-test
 dotnet test
 ```
+##UI
 
+### Task list page
 ![Image](https://github.com/user-attachments/assets/6a7196bc-4d57-46d6-afeb-bafdbd30bb56)
+
+### Add new task page
+![Image](https://github.com/user-attachments/assets/30825759-9fa8-4ef3-8577-b0ffd6a68c43)
