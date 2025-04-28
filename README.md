@@ -63,4 +63,7 @@ dotnet test
 ![Image](https://github.com/user-attachments/assets/107a1e3f-f4f0-4c21-9562-5b2d26f7fbbf)
 
 ### Edit page
+![Image](https://github.com/user-attachments/assets/18b56519-25f9-4b5e-a92c-2f449cc70a5c)
+
+### Delete confirmation
 
