@@ -50,3 +50,6 @@ To run the test:
 ```Terminal of choice
 cd dts-developer-technical-test/dts-challenge/dts-challenge-test
 dotnet test
+```
+
+![Image](https://github.com/user-attachments/assets/6a7196bc-4d57-46d6-afeb-bafdbd30bb56)
