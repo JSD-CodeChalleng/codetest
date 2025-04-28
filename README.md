@@ -58,3 +58,9 @@ dotnet test
 
 ### Add new task page
 ![Image](https://github.com/user-attachments/assets/30825759-9fa8-4ef3-8577-b0ffd6a68c43)
+
+### Details view page
+![Image](https://github.com/user-attachments/assets/107a1e3f-f4f0-4c21-9562-5b2d26f7fbbf)
+
+### Edit page
+
