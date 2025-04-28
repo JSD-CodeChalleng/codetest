@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "irRI3Fww+9PgdyhpLSYSZxUfQeGY2zTw0hPZ+4qcOy4=",
+  "Source": "dts-challenge.Server",
+  "BasePath": "_content/dts-challenge.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Documents\\Code-Tests\\dts-developer-technical-test\\dts-challenge\\dts-challenge.client\\dts-challenge.client.esproj",
+      "Version": 2,
+      "Source": "dts-challenge.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
